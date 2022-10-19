@@ -1,0 +1,10 @@
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\bin\Debug\netcoreapp3.1\learn.core.deps.json
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\bin\Debug\netcoreapp3.1\learn.core.dll
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\bin\Debug\netcoreapp3.1\learn.core.pdb
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.csproj.AssemblyReference.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.AssemblyInfoInputs.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.AssemblyInfo.cs
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.dll
+C:\Users\yazan\source\repos\MessengerAPI\learn.core\obj\Debug\netcoreapp3.1\learn.core.pdb
