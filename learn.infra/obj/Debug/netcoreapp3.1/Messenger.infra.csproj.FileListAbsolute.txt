@@ -1,0 +1,16 @@
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.infra.deps.json
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.infra.runtimeconfig.json
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.infra.runtimeconfig.dev.json
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.infra.dll
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.infra.pdb
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.core.dll
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\bin\Debug\netcoreapp3.1\Messenger.core.pdb
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.csproj.AssemblyReference.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.AssemblyInfoInputs.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.AssemblyInfo.cs
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.csproj.CopyComplete
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.dll
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.pdb
+C:\Users\yazan\source\repos\MessengerAPI\learn.infra\obj\Debug\netcoreapp3.1\Messenger.infra.genruntimeconfig.cache
