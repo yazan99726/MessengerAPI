@@ -3197,11 +3197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Tahaluf\\messengerAPI\\MessengerAPI\\MessengerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\MessengerAPI\\MessengerAPI.csproj",
       "projectName": "MessengerAPI",
-      "projectPath": "E:\\My Tahaluf\\messengerAPI\\MessengerAPI\\MessengerAPI.csproj",
+      "projectPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\MessengerAPI\\MessengerAPI.csproj",
       "packagesPath": "C:\\Users\\yazan\\.nuget\\packages\\",
-      "outputPath": "E:\\My Tahaluf\\messengerAPI\\MessengerAPI\\obj\\",
+      "outputPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\MessengerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3222,11 +3222,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\My Tahaluf\\messengerAPI\\learn.core\\Messenger.core.csproj": {
-              "projectPath": "E:\\My Tahaluf\\messengerAPI\\learn.core\\Messenger.core.csproj"
+            "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.core\\Messenger.core.csproj": {
+              "projectPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.core\\Messenger.core.csproj"
             },
-            "E:\\My Tahaluf\\messengerAPI\\learn.infra\\Messenger.infra.csproj": {
-              "projectPath": "E:\\My Tahaluf\\messengerAPI\\learn.infra\\Messenger.infra.csproj"
+            "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.infra\\Messenger.infra.csproj": {
+              "projectPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.infra\\Messenger.infra.csproj"
             }
           }
         }
