@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Tahaluf\\messengerAPI\\learn.core\\Messenger.core.csproj",
+      "projectUniqueName": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.core\\Messenger.core.csproj",
       "projectName": "Messenger.core",
-      "projectPath": "E:\\My Tahaluf\\messengerAPI\\learn.core\\Messenger.core.csproj",
+      "projectPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.core\\Messenger.core.csproj",
       "packagesPath": "C:\\Users\\yazan\\.nuget\\packages\\",
-      "outputPath": "E:\\My Tahaluf\\messengerAPI\\learn.core\\obj\\",
+      "outputPath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEp66zXfqxaAJne44TXBSxifryJPygvfdXVxuasK6EDeS3bigUQfDjYAoVSHHrUDh5gqyIH/wYghQ6sBWsG2BA==",
+  "dgSpecHash": "WspMc993QSNonwAG+NCOH8FJGQlJn1I8VoJkb1EeSkTTNxWJF80AtOMyfiuDfwuhgQTH0hGKPqOMBqtV03+c+Q==",
   "success": true,
-  "projectFilePath": "E:\\My Tahaluf\\messengerAPI\\learn.infra\\Messenger.infra.csproj",
+  "projectFilePath": "C:\\Users\\yazan\\source\\repos\\MyMessengerAPI\\learn.infra\\Messenger.infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yazan\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\yazan\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
